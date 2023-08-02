@@ -3,7 +3,9 @@
 1. Install Node.js  
 
 		npm install node
+
 		node -v
+
 		npm -v
 
 2. Install TypeScript 5.0+ using Node Package Manager command:  
