@@ -1,9 +1,9 @@
-Hello World Steps:
+#Hello World Steps:
 
 1. Install Node.js 
-npm install node 
-node -v
-npm -v
+        npm install node 
+        node -v
+        npm -v
 
 2. Install TypeScript 5.0+ using Node Package Manager command:  
 
