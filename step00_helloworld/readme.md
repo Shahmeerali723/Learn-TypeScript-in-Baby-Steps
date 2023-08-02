@@ -1,7 +1,9 @@
 # Hello World Steps:
 
 1. Install Node.js  
+     ```http
 		npm install node
+		```
 		node -v
 		npm -v
 
