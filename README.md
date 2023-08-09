@@ -1,6 +1,6 @@
 # Learn-TypeScript-in-Baby-Steps
 
-TypeScript from Beginner to Professional, Published by [########]
+TypeScript from Beginner to Professional, Published by [Panaverse Dao]
 
 
 
