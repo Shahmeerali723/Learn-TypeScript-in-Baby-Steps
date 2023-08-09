@@ -12,29 +12,27 @@
 
 		npm install -g typescript
 
-6. Generate tsconfig.json by giving this command:
+3. Generate tsconfig.json by giving this command:
 
 		tsc --init
 
-7. Make it a Node.js project by giving the following command:
+4. If you want to run TypeScript tsc command in Windows Powershell:
 
-		npm init -y
+1. Open Powershell in Adminstrator mode
+2. Run command: 
 
-8. Install types for Node.js
+		Set-ExecutionPolicy RemoteSigned
 
-		npm i @types/node -D
+Policy updated and now you can run tsc command in powershell.
 
-9. Create .gitignore file
-
-
-10. Create file app.ts
+5. Create file app.ts
 
 
-9. Transpile JavaScript by running:
+6. Transpile JavaScript by running:
 
 		tsc
 
-10. Run transpiled javascript by running the following command:
+7. Run transpiled javascript by running the following command:
 
-		node app
+		node app.js
 
