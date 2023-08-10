@@ -8,3 +8,12 @@ const: Declares an immutable variable, which means its value can't be changed af
 
 ## Data Types:
 
+number
+string
+boolean
+array
+enum
+any
+void
+null|undefined
+object
