@@ -32,10 +32,3 @@ TypeScript may give you warnings about variables that you've declared but haven'
 
 Errors can also occur if you try to assign a value to a property that doesn't exist on an object.
 
-
-
-4. Scope Errors:
-Think of scope errors like being able to see things only within certain rooms in a house. Variables declared inside a room (block) are only accessible within that room. Trying to use them outside is like trying to use a kitchen appliance in the living room.
-
-5. Function Errors:
-Imagine baking a cake but not following the recipe correctly. Function errors can be like using the wrong ingredients or mixing steps up. If you expect a cake but get a pie, there's an issue.
