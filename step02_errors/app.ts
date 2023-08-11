@@ -29,4 +29,10 @@ let result: string = add(5, 3);  // Type error: Result should be a number, not a
 
 // Unsed Variable Error
 
-// Property Assisgnment Errors:
+let unusedVariable: number = 5;  // TypeScript warning: Variable 'unusedVariable' is declared but its value is never read
+
+
+// Property Assignment Errors:
+
+let person: { name: string } = { name: "Alice" };
+person.age = 30;  // Type error: Property 'age' does not exist on type '{ name: string }'
