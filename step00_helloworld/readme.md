@@ -35,4 +35,3 @@ Policy updated and now you can run tsc command in powershell.
 7. Run transpiled javascript by running the following command:
 
 		node app.js
-
